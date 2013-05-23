@@ -1,8 +1,9 @@
-coremods/CoFHCore-1.5.2.1.jar
-coremods/CodeChickenCore 0.8.6.8.jar
-coremods/NotEnoughItems 1.5.2.15.jar
-coremods/PowerCrystalsCore-1.1.6-107.jar
-installMods/minecraftforge-universal-1.5.2-7.8.0.710.zip
+lib/argo-small-3.2.jar
+lib/asm-all-4.1.jar
+lib/bcprov-jdk15on-148.jar
+lib/deobfuscation_data_1.5.2.zip
+lib/guava-14.0-rc3.jar
+lib/scala-library.jar
 mods/1.5.2 DamageIndicators v2.7.0.zip
 mods/AdvancedMachines_1.5.2.zip
 mods/BiblioCraft[v1.2.3].zip
@@ -33,6 +34,7 @@ mods/chargepads-1.5.2-universal-2.7.0.86.jar
 mods/compactsolars-universal-1.5.1-4.1.6.37.zip
 mods/ee3-universal-pre1g.jar
 mods/forestry-A-2.2.4.2.jar
+mods/gregtechmod.zip
 mods/iChunUtil1.0.1.zip
 mods/immibis-core-55.1.1.jar
 mods/industrialcraft-2_1.115.327-lf.jar
