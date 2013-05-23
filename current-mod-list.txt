@@ -1,0 +1,45 @@
+coremods/CoFHCore-1.5.2.1.jar
+coremods/CodeChickenCore 0.8.6.8.jar
+coremods/NotEnoughItems 1.5.2.15.jar
+coremods/PowerCrystalsCore-1.1.6-107.jar
+installMods/minecraftforge-universal-1.5.2-7.8.0.710.zip
+mods/1.5.2 DamageIndicators v2.7.0.zip
+mods/AdvancedMachines_1.5.2.zip
+mods/BiblioCraft[v1.2.3].zip
+mods/Biomes-O-Plenty-0.5.3.zip
+mods/ChickenChunks 1.3.2.9.jar
+mods/DimensionalDoors-1.5.2R1.3.6RC1-71.zip
+mods/EnderStorage 1.4.2.8.jar
+mods/Factorization-0.7.37.jar
+mods/FlatBedrock-1.1.1-32.jar
+mods/GravityGun1.5.0v2.zip
+mods/IC2NuclearControl-1.5.1c.zip
+mods/MineFactoryReloaded-2.5.4-665.jar
+mods/Natura_2.1beta.4.jar
+mods/NetherOres-2.1.3-60.jar
+mods/OmniTools-3.1.3.0.jar
+mods/PortalGun1.5.1.zip
+mods/PowerConverters-2.3.0-54.jar
+mods/Railcraft_1.5.1-7.1.0.0.jar
+mods/SecretRoomsMod-universal-4.6.0.281.zip
+mods/StevesCarts2.0.0.a117.zip
+mods/TConstruct_1.3.dev.43.jar
+mods/Thaumcraft3.0.5c.zip
+mods/ThermalExpansion-2.4.2.0.jar
+mods/[1.5.2]Modular Forcefield System 2.3.0.1.0.jar
+mods/appeng-rv10-n.zip
+mods/buildcraft-A-3.5.3.jar
+mods/chargepads-1.5.2-universal-2.7.0.86.jar
+mods/compactsolars-universal-1.5.1-4.1.6.37.zip
+mods/ee3-universal-pre1g.jar
+mods/forestry-A-2.2.4.2.jar
+mods/iChunUtil1.0.1.zip
+mods/immibis-core-55.1.1.jar
+mods/industrialcraft-2_1.115.327-lf.jar
+mods/ironchest-universal-1.5.2-5.2.6.419.zip
+mods/liquid-xp-55.0.0.jar
+mods/mod_AdvancedSolarPanels_3_3_7.zip
+mods/mod_zGraviSuite_1_9_2.zip
+mods/obsidiplates-1.5.2-universal-1.5.0.13.jar
+mods/tubestuff-55.0.1.jar
+mods/twilightforest-1.18.0.zip
